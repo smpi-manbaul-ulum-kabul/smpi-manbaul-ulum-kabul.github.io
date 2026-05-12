@@ -27,7 +27,7 @@ const PENDAFTARAN_BUKA = false; // true = BUKA, false = TUTUP
 const GOOGLE_FORM_LINK = "#";
 const GOOGLE_MAPS_LINK = "https://maps.app.goo.gl/1hygfTvHimucGrv79";
 const INSTAGRAM_LINK = "https://www.instagram.com/smpimanbaululum";
-const WHATSAPP_LINK = "https://wa.me/085237095076";
+const WHATSAPP_LINK = "https://wa.me/6285237095076";
 const FACEBOOK_LINK = "https://facebook.com";
 
 // Scroll to Home Function
